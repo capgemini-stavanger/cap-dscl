@@ -24,3 +24,15 @@ To start the storybook and open it on localhost, run:
 > yarn storybook
 
 ![Storybook intropage](./docs/images/storybook-intro.png)
+
+
+# Hosting on GitHub pages
+
+Using this tool
+> https://github.com/storybookjs/storybook-deployer
+
+Then simply runnging
+> npm run deploy-storybook
+
+The storybook is now available at:
+> https://capgemini-stavanger.github.io/cap-dscl/
