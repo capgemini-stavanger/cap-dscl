@@ -21,6 +21,8 @@ export const Primary = Template.bind({});
 Primary.args = {
   primary: true,
   label: 'Button',
+  onClick: () => alert('You click me!')
+
 };
 
 export const Secondary = Template.bind({});
